@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu');
+
+/*font-family: 'Open Sans', sans-serif;*/
+/*font-family: 'Ubuntu', sans-serif;*/
+
+.body, * {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.carousel, .cerousel-inner, .header, .carousel-item {
+	height: 100vh;
+}
+
+section {
+	padding: 110px 0px;
+	text-align: center;
+}
+
+section h1 {
+	padding-bottom: 60px;
+}
